@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+   1、java的加载与执行原理
+       a、编写.java源代码 保存
+       b、通过javac命令编译  生成字节码 非二进制码  变成.class 文件  一个.java文件可以生成多个.class文件  这个.class叫类，点前的字符叫类名。
+	   c、通过java命令运行    交由虚拟机运行
+	   
+* text=auto
